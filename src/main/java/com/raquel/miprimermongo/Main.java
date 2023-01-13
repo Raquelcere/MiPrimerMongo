@@ -23,6 +23,7 @@ public class Main extends Application {
             System.out.println("Error al leer el fichero");
         }
 
+
         //FXMLLoader fxmlLoader = new FXMLLoader(Main.class.getResource("hello-view.fxml"));
         //Scene scene = new Scene(fxmlLoader.load(), 320, 240);
         //stage.setTitle("Hello!");
